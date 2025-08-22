@@ -15,38 +15,10 @@
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
+  <link rel="stylesheet" href="/styles/style.css">
+
   <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    // Extend Tailwind with your custom colors
-    tailwind.config = {
-      theme: {
-        extend: {
-          colors: {
-            'yinmn-blue': '#4c6085',
-            'celestial-blue': '#39a0ed',
-            'aquamarine': '#36f1cd',
-            'mint': '#13c4a3',
-            'black-olive': '#32322c',
-          }
-        }
-      }
-    }
-  </script>
-  <style>
-    /* Simple transition for hamburger animation */
-    .line {
-      transition: all 0.3s ease-in-out;
-    }
-    .open .line1 {
-      transform: rotate(45deg) translate(5px, 5px);
-    }
-    .open .line2 {
-      opacity: 0;
-    }
-    .open .line3 {
-      transform: rotate(-45deg) translate(6px, -6px);
-    }
-  </style>
+  <script src="/scripts/tailwind-config.js"></script>
 </head>
 <body class="bg-gray-100 text-black-olive dark:bg-black-olive dark:text-gray-100">
   <!-- Navbar -->
