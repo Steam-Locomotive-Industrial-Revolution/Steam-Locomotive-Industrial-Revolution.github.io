@@ -1,7 +1,6 @@
 name: Generate xml sitemap
 
-on:
-  workflow_dispatch
+on: push
 
 jobs:
   sitemap_job:
