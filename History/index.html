@@ -50,7 +50,8 @@
   <!-- Main content -->
  <main class="px-6 max-w-4xl mx-auto pt-20">
   <section class="grid min-h-[calc(100svh-5rem)] place-items-center">
-    <div class="text-left max-w-md py-12">
+    <!-- Increase max-w from md to lg/xl, remove if you want it as wide as the main container -->
+    <div class="text-left max-w-xl w-full py-12">
       <h2 class="text-3xl font-bold text-yinmn-blue">History</h2>
       <p class="mt-4 text-lg leading-relaxed text-black-olive dark:text-gray-100">
         Steam locomotives from the industrial revolution are the precursor of modern trains. 
@@ -59,9 +60,13 @@
         and consisted of a heated water container with tubes coming off of it, which led to a rotating piece that would release the steam as jets,
         creating torque.
       </p>
-      <img src="/images/Aeolipile.jpeg" alt="Ancient roman Aeolipile" class="mt-8 rounded-lg shadow-md">
+
+      <!-- Image centered: mx-auto and block -->
+      <img src="/images/Aeolipile.jpeg" alt="Ancient roman Aeolipile"
+           class="mt-8 rounded-lg shadow-md mx-auto block">
+
       <p class="mt-4 text-lg leading-relaxed text-black-olive dark:text-gray-100">
-        The Aeolipile, however, is not known to have ever been used for any practical purpose, but simply as a novelty, or a temple wonder,
+        The Aeolipile, however, is not known to have ever been used for any practical purpose, but simply as a novelty, or a temple wonder, 
         according to some sources. <br/><br/>
         Some of the first known practical uses for steam engines was to pump water. An example of this was Thomas Savery's steam pump, 
         dating from the late 17th century, which was used to pump water from the mines. This pump utilised the suction created by condensed steam, 
@@ -69,7 +74,8 @@
       </p>
     </div>
   </section>
- </main>
+</main>
+
   <!-- Footer -->
   <footer id="contact" class="bg-black-olive text-white p-6 text-center">
     <p>© 2025 Raphael Ireson. All rights reserved.</p> <br/>
