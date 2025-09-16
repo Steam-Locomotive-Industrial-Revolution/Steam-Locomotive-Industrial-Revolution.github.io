@@ -116,6 +116,5 @@ module.exports = {
   "group-hover:scale-100",
   "transition-all",
   "duration-150",
-  "bg-fuchsia-500"
 ],
 }
