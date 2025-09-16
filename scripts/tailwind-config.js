@@ -1,5 +1,9 @@
-// Extend Tailwind with your custom colors
-tailwind.config = {
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./*.html",        // all HTML files in the root
+    "./src/**/*.html",  // if you put HTML in src/
+  ],
   theme: {
     extend: {
       colors: {
@@ -9,6 +13,7 @@ tailwind.config = {
         'mint': '#13c4a3',
         'black-olive': '#32322c',
       }
-    }
-  }
+    },
+  },
+  plugins: [],
 }
