@@ -19,7 +19,7 @@ jobs:
 
       - run: npm install -D tailwindcss
 
-      - run: npx tailwindcss -i ./src/input.css -o ./src/output.css --minify --config ./tailwind.config.js
+      - run: npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify --config ./tailwind.config.js
 
       - name: Commit built CSS
         run: |
