@@ -1,4 +1,4 @@
-name: Build Tailwind CSS
+name: Build Tailwind CSS & Generate Sitemap
 
 on:
   push:
@@ -7,19 +7,25 @@ on:
   pull_request:
 
 jobs:
-  build:
+  build_and_sitemap:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 20
 
-      - run: npm install -D postcss @tailwindcss/postcss concurrently
+      - name: Install dependencies
+        run: npm install -D postcss @tailwindcss/postcss concurrently
 
-      - run: npm run build
+      - name: Build Tailwind CSS
+        run: npm run build
 
       - name: Commit built CSS
         run: |
@@ -30,3 +36,17 @@ jobs:
           git add dist/styles.css
           git diff --cached --quiet || git commit -m "Build Tailwind CSS [skip ci]"
           git push
+
+      - name: Generate sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://steam-locomotive-industrial-revolution.github.io/
+
+      - name: Commit sitemap
+        run: |
+          if [[ `git status --porcelain sitemap.xml` ]]; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add sitemap.xml
+            git commit -m "Automated sitemap update [skip ci]"
+            git push
