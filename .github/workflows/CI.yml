@@ -17,9 +17,9 @@ jobs:
         with:
           node-version: 20
 
-      - run: npm install -D tailwindcss
+      - run: npm install -D tailwindcss concurrently
 
-      - run: npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify --config ./tailwind.config.js
+      - run: npm run build
 
       - name: Commit built CSS
         run: |
