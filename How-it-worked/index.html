@@ -16,13 +16,10 @@
 
     <link rel="apple-touch-icon" sizes="180x180" href="/Apple-touch-icon.png">
 
-    <link rel="stylesheet" href="/styles/style.css">
+    <link href="/styles/style.css" rel="stylesheet">
+    <link href="/dist/styles.css" rel="stylesheet">
 
-    <link rel="prefetch" href="https://cdn.tailwindcss.com">
-    <link rel="prefetch" href="/scripts/tailwind-config.js">
-
-    <script src="https://cdn.tailwindcss.com" defer></script>
-    <script src="/scripts/tailwind-config.js" defer></script>
+    <link rel="prefetch" href="/dist/styles.css">
   </head>
   <body class="bg-gray-100 text-black-olive dark:bg-black-olive dark:text-gray-100">
   <!-- Navbar -->
@@ -81,7 +78,7 @@
     <p>Made for Yr 9 HSIE Term 3 of 2025</p> <br/>
   </footer>
   
-  <script>
+  <script type="text/javascript" defer>
     const menuBtn = document.getElementById('menu-btn');
     const sidebar = document.getElementById('sidebar');
     const overlay = document.getElementById('overlay');
