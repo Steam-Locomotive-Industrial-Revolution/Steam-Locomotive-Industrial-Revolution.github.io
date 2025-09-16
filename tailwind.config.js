@@ -116,5 +116,6 @@ module.exports = {
   "group-hover:scale-100",
   "transition-all",
   "duration-150",
+  "safelist: [\"bg-[rgb(255,0,0)]\"]"
 ],
 }
