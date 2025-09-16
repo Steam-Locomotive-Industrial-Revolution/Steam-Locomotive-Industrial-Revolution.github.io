@@ -50,3 +50,4 @@ jobs:
             git add sitemap.xml
             git commit -m "Automated sitemap update [skip ci]"
             git push
+          fi
