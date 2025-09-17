@@ -20,7 +20,7 @@
     "watch": "npm-watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "postcss src/styles.css -o dist/styles.css",
-    "dev": "concurrently \"npm run build && live-server / --port=8080\" \"npm run watch\""
+    "dev": "concurrently \"npm run build && live-server ./index.html --port=8080\" \"npm run watch\""
   },
   "keywords": [],
   "author": "",
