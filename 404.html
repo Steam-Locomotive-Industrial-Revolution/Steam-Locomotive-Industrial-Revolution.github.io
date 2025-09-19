@@ -17,7 +17,7 @@
 <script>
 async function loadPoems() {
   try {
-    const response = await fetch("404poems.jsonl");
+    const response = await fetch("/404poems.jsonl");
     if (!response.ok) throw new Error("Could not load poems");
     const text = await response.text();
 
