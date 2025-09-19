@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 - Poetic Not Found</title>
+<style>
+  body { font-family: sans-serif; text-align: center; padding: 50px; background: #f0f0f0; }
+  .poem { background: #fff; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto; white-space: pre-line; }
+  h1 { font-size: 3em; color: #c00; }
+</style>
+</head>
+<body>
+<h1>404</h1>
+<div class="poem" id="poem">Loading your poem...</div>
+
+<script>
+async function loadPoems() {
+  try {
+    const response = await fetch("404poems.jsonl");
+    if (!response.ok) throw new Error("Could not load poems");
+    const text = await response.text();
+
+    // Parse JSONL into an array of completions
+    const poems = text.trim().split("\n").map(line => JSON.parse(line).completion);
+
+    // Track seen poems in localStorage
+    let seen = JSON.parse(localStorage.getItem("seenPoems") || "[]");
+
+    function getRandomPoem() {
+      if (seen.length >= poems.length) {
+        seen = []; // reset if all seen
+      }
+      const unseen = poems.map((_, i) => i).filter(i => !seen.includes(i));
+      const idx = unseen[Math.floor(Math.random() * unseen.length)];
+      seen.push(idx);
+      localStorage.setItem("seenPoems", JSON.stringify(seen));
+      return poems[idx];
+    }
+
+    document.getElementById("poem").textContent = getRandomPoem();
+  } catch (err) {
+    document.getElementById("poem").textContent = "Oops, couldn’t load a poem.";
+    console.error(err);
+  }
+}
+
+loadPoems();
+</script>
+</body>
+</html>
