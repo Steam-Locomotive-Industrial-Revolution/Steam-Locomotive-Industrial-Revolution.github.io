@@ -18,7 +18,7 @@
 async function loadPoems() {
   try {
     const response = await fetch("/404poems.jsonl");
-    if (!response.ok) throw new Error("Could not load poems");
+    if (!response.ok) throw new Error("Could not find page");
     const text = await response.text();
 
     // Parse JSONL into an array of completions
