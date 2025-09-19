@@ -22,7 +22,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install -D postcss @tailwindcss/postcss concurrently
+        run: npm install -D postcss @tailwindcss/postcss
 
       - name: Build Tailwind CSS
         run: npm run build
