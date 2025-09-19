@@ -1,0 +1,250 @@
+{"prompt":"404 Error Poem 1","completion":"Oops! The page has gone AWOL,\nIt left a note: 'Gone stroll!'\nNo need to cry or rage,\nJust click elsewhere, turn the page."}
+{"prompt":"404 Error Poem 2","completion":"This link took a holiday,\nSomewhere far, it ran away.\nWe searched high, we searched low,\nBut still, it refuses to show."}
+{"prompt":"404 Error Poem 3","completion":"Our website played a trick,\nThe page you want is gone too quick.\nIt hid behind a cyber wall,\nWe hope you laugh and not just bawl."}
+{"prompt":"404 Error Poem 4","completion":"The server sneezed, the page took flight,\nIt disappeared into the night.\nNo need to panic, don’t you fret,\nAnother page is coming yet."}
+{"prompt":"404 Error Poem 5","completion":"A digital gnome stole your link,\nHe’s sipping tea by the virtual sink.\nHe’ll return it when he’s done,\nUntil then, you’re not the only one."}
+{"prompt":"404 Error Poem 6","completion":"Clickity-click, and oh what luck,\nYou found a page that ran amok.\nNo treasure here, no secret gate,\nJust a quirky little 404 fate."}
+{"prompt":"404 Error Poem 7","completion":"We looked behind the server rack,\nBut the page refused to come back.\nIt’s playing hide and seek online,\nSo let’s just laugh, the sun will shine."}
+{"prompt":"404 Error Poem 8","completion":"The page you seek is taking tea,\nWith cookies, muffins, and chamomile spree.\nNo need to worry, it’s not a crime,\nJust wander back and try next time."}
+{"prompt":"404 Error Poem 9","completion":"404! The number says it all,\nThis page has made a sudden call.\nIt vanished like a sneaky sprite,\nTry again or take a byte."}
+{"prompt":"404 Error Poem 10","completion":"The web is wide, the page is small,\nIt ran away, we can’t recall.\nDon’t frown too long, click something new,\nThe internet still waits for you."}
+{"prompt":"404 Error Poem 11","completion":"Oh no, a broken link appears,\nBut have no fear, let go of tears.\nThe internet’s a tricky place,\nClick back, and you’ll win the race."}
+{"prompt":"404 Error Poem 12","completion":"A cyber gremlin stole your page,\nHe’s dancing wildly on the digital stage.\nWe’ll chase him down, perhaps someday,\nFor now, just laugh and find another way."}
+{"prompt":"404 Error Poem 13","completion":"The bytes have fled, the bits ran fast,\nThe page you seek is in the past.\nBut don’t be sad, don’t feel alone,\nNew links await on the homepage throne."}
+{"prompt":"404 Error Poem 14","completion":"This URL has gone to hide,\nLike a shy turtle in the tide.\nIt may return, it may not,\nFor now, enjoy this little plot."}
+{"prompt":"404 Error Poem 15","completion":"Somewhere deep in cyberspace,\nYour page is lost, a tiny trace.\nWe searched the net, both far and near,\nAlas, the page is not here."}
+{"prompt":"404 Error Poem 16","completion":"The server hummed a quiet song,\nThe page you want went all along.\nIt may be hiding, or just shy,\nClick back and give it another try."}
+{"prompt":"404 Error Poem 17","completion":"A page that wanders, free and wild,\nEscaped our grasp, like a cheeky child.\nWe hope you smile, not get annoyed,\nThe internet’s tricks are often deployed."}
+{"prompt":"404 Error Poem 18","completion":"The link you seek is on a break,\nIt needed time for goodness’ sake.\nCheck back soon or take a stroll,\nThe web will greet you, heart and soul."}
+{"prompt":"404 Error Poem 19","completion":"A missing page is quite the feat,\nBut don’t let this ruin your heartbeat.\nJust laugh and wander, it’s all okay,\nThe internet still has fun to play."}
+{"prompt":"404 Error Poem 20","completion":"The page took flight, a daring escape,\nIt left no note, not a single shape.\nWe tried to track it, bit by bit,\nBut only found a tiny skit."}
+{"prompt":"404 Error Poem 21","completion":"404! It’s here, it’s gone, it’s gone again,\nThis page is lost, like an autumn rain.\nNo need to sigh, don’t scream or shout,\nOther links are waiting out and about."}
+{"prompt":"404 Error Poem 22","completion":"Our database did a little jig,\nThe page you seek is gone so big.\nIt hides somewhere, behind a wall,\nOr maybe it just had a ball."}
+{"prompt":"404 Error Poem 23","completion":"The page is hiding, playing coy,\nA little trickster full of joy.\nIt may come back, it may not,\nFor now, click something else, why not?"}
+{"prompt":"404 Error Poem 24","completion":"We sent a searchlight through the code,\nBut the page escaped our heavy load.\nIt might return with coffee mug,\nUntil then, give the links a hug."}
+{"prompt":"404 Error Poem 25","completion":"A little page, so small and spry,\nEscaped our grasp, said goodbye.\nDon’t fret, don’t frown, just click anew,\nThe internet still waits for you."}
+{"prompt":"404 Error Poem 26","completion":"The web is vast, the page is small,\nIt slipped right past our net and all.\nNo worries though, just have some fun,\nNew pages wait beneath the sun."}
+{"prompt":"404 Error Poem 27","completion":"Oops, a page has gone astray,\nIt wandered far, it ran away.\nBut cheer up, friend, it’s not the end,\nClick back or forward, web will bend."}
+{"prompt":"404 Error Poem 28","completion":"The digital winds blew page away,\nIt floated off to skies of gray.\nWe searched the cloud, the server too,\nAlas, the page is out of view."}
+{"prompt":"404 Error Poem 29","completion":"A missing page is quite absurd,\nNo rhyme, no reason, not a word.\nIt may return, or may not be,\nJust wander on the web, carefree."}
+{"prompt":"404 Error Poem 30","completion":"The page took off for lands unknown,\nPerhaps it’s sipping tea, alone.\nWe’ll find it one day, don’t despair,\nFor now, explore elsewhere with care."}
+{"prompt":"404 Error Poem 31","completion":"404! The page has disappeared,\nIt left us here, slightly weird.\nBut don’t you frown, don’t feel dismayed,\nOther links will save the day."}
+{"prompt":"404 Error Poem 32","completion":"This link is shy, it hides from view,\nIt’s playing peekaboo with you.\nClick back, click forth, explore the net,\nMore pages wait, you haven’t met."}
+{"prompt":"404 Error Poem 33","completion":"The server winked and hid your page,\nA prankster on the digital stage.\nNo worries though, it’s not lost,\nJust click around, you’ll be the boss."}
+{"prompt":"404 Error Poem 34","completion":"Alas! The page is gone today,\nIt ran away, it could not stay.\nBut don’t despair, keep moving on,\nAnother link will greet the dawn."}
+{"prompt":"404 Error Poem 35","completion":"The page you seek has skipped a beat,\nIt wandered off to find a treat.\nWe searched the net both far and near,\nBut only found this cheerful cheer."}
+{"prompt":"404 Error Poem 36","completion":"A tiny page ran out to play,\nIt giggled at us all the way.\nNo need to pout, just click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 37","completion":"404! The page is gone, my friend,\nIt vanished swiftly, around the bend.\nNo need to frown, don’t feel alone,\nNew pages wait, your web to own."}
+{"prompt":"404 Error Poem 38","completion":"This URL took a secret flight,\nIt’s hiding now, beyond our sight.\nWe’ll try again, another day,\nFor now, enjoy this playful fray."}
+{"prompt":"404 Error Poem 39","completion":"The page you seek is off on tour,\nExploring bytes and data pure.\nDon’t worry, soon it may return,\nBut until then, let curiosity burn."}
+{"prompt":"404 Error Poem 40","completion":"Oh no, the link is gone for now,\nWe’ve searched the net, we even bow.\nIt may appear, or may not stay,\nClick other links to save the day."}
+{"prompt":"404 Error Poem 41","completion":"The page you want took a quick nap,\nIt’s hiding somewhere in a virtual gap.\nDon’t worry though, it’s all okay,\nAnother link is just a click away."}
+{"prompt":"404 Error Poem 42","completion":"The server blinked, the page took flight,\nIt’s wandering free, out of sight.\nClick somewhere else, don’t be sad,\nThe web has wonders to be had."}
+{"prompt":"404 Error Poem 43","completion":"404! The page has left the chat,\nIt wandered off, imagine that.\nBut fear not, brave web explorer,\nOther links await to make you soar."}
+{"prompt":"404 Error Poem 44","completion":"The URL ran, it’s on the run,\nPerhaps it’s having digital fun.\nWe’ll catch it soon, just give it time,\nFor now, enjoy this little rhyme."}
+{"prompt":"404 Error Poem 45","completion":"A wandering page is hard to find,\nIt slipped away, and that’s just fine.\nClick back, click forth, the net’s a maze,\nMore pages wait to fill your days."}
+{"prompt":"404 Error Poem 46","completion":"This page is hiding in the mist,\nIt waved goodbye, it can’t resist.\nNo worries though, just roam around,\nNew discoveries will soon be found."}
+{"prompt":"404 Error Poem 47","completion":"The link you clicked is out to play,\nIt skipped away without delay.\nHave a laugh, don’t feel dismayed,\nThe web is full of things displayed."}
+{"prompt":"404 Error Poem 48","completion":"A missing page can be quite fun,\nIt’s hiding out and on the run.\nClick elsewhere, explore anew,\nThe internet has much to view."}
+{"prompt":"404 Error Poem 49","completion":"404! A page is gone today,\nIt wandered off, it couldn’t stay.\nBut don’t despair, click here or there,\nThe web has plenty to share."}
+{"prompt":"404 Error Poem 50","completion":"The page you want is feeling shy,\nIt ran away with a little sigh.\nNo need to fret, just click around,\nMore pages wait to be found."}
+{"prompt":"404 Error Poem 51","completion":"The page you clicked ran off to play,\nIt giggled and skipped the display.\nNo need to fret or frown,\nTry a new link, the web’s around."}
+{"prompt":"404 Error Poem 52","completion":"A tiny URL took a nap,\nIt hid beneath the digital map.\nClick back, click forth, explore some more,\nThe internet has wonders in store."}
+{"prompt":"404 Error Poem 53","completion":"This link decided to go on tour,\nIt’s seeing sites and pixels galore.\nDon’t worry, friend, it might return,\nIn the meantime, new pages to learn."}
+{"prompt":"404 Error Poem 54","completion":"The server blinked and hid your page,\nIt’s off somewhere, acting sage.\nLaugh a little, don’t despair,\nOther links are everywhere."}
+{"prompt":"404 Error Poem 55","completion":"Oops! The URL is gone astray,\nIt ran away to have its way.\nNo need to panic, click around,\nMore pages wait to be found."}
+{"prompt":"404 Error Poem 56","completion":"A digital pixie took your site,\nIt’s frolicking in cyber light.\nDon’t fret, it may come back soon,\nOr enjoy the web’s little tune."}
+{"prompt":"404 Error Poem 57","completion":"This page is hiding in the cloud,\nIt’s laughing softly, not too loud.\nNo worries here, just explore anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 58","completion":"The link ran off for a quick stroll,\nIt’s sipping data from a digital bowl.\nClick somewhere else, don’t be sad,\nOther pages await to make you glad."}
+{"prompt":"404 Error Poem 59","completion":"404! The page is on the loose,\nIt skipped away without excuse.\nBut cheer up, friend, don’t be dismayed,\nOther links await, not delayed."}
+{"prompt":"404 Error Poem 60","completion":"The URL has gone for a while,\nIt’s hiding behind a binary tile.\nNo need to frown, don’t feel blue,\nJust click another and see it through."}
+{"prompt":"404 Error Poem 61","completion":"A wandering page is hard to track,\nIt dashed off without looking back.\nDon’t worry, though, the net’s wide,\nOther links will be your guide."}
+{"prompt":"404 Error Poem 62","completion":"The cyber sprite took a nap,\nIt disappeared without a map.\nNo need to stress, no need to pout,\nOther pages are still about."}
+{"prompt":"404 Error Poem 63","completion":"Our server sneezed and out it flew,\nThe page you want is out of view.\nClick somewhere else, explore around,\nThe internet has more to be found."}
+{"prompt":"404 Error Poem 64","completion":"The link is shy, it hides from sight,\nIt may return or not tonight.\nClick elsewhere, the web’s alive,\nOther pages will help you thrive."}
+{"prompt":"404 Error Poem 65","completion":"A missing page is quite the feat,\nIt slipped away, elusive and sweet.\nDon’t be sad, just click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 66","completion":"The URL ran off to play in bytes,\nDancing through the server lights.\nNo need to worry, have some cheer,\nOther pages will soon appear."}
+{"prompt":"404 Error Poem 67","completion":"The page took off on a little quest,\nIt’s having fun, it needed rest.\nNo worries, friend, click back or forth,\nThe internet is full of worth."}
+{"prompt":"404 Error Poem 68","completion":"A mischievous link ran away,\nIt giggled at us without delay.\nClick somewhere else, explore the net,\nYou’ll find a page you won’t forget."}
+{"prompt":"404 Error Poem 69","completion":"This URL has gone astray,\nIt’s playing games and hiding away.\nDon’t worry though, the web is vast,\nOther links will serve you fast."}
+{"prompt":"404 Error Poem 70","completion":"The page has vanished in cyberspace,\nIt left no trace, just a blank place.\nClick back, explore, have some fun,\nThe web has many paths to run."}
+{"prompt":"404 Error Poem 71","completion":"404! The link has skipped away,\nIt’s off to play another day.\nBut cheer up, friend, don’t be sad,\nOther pages are just as rad."}
+{"prompt":"404 Error Poem 72","completion":"The page is hiding like a sprite,\nIt’ll return when it feels right.\nClick around and wander free,\nThe web’s full of opportunity."}
+{"prompt":"404 Error Poem 73","completion":"A tiny URL ran out to play,\nIt giggled and danced the day away.\nNo need to frown, just click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 74","completion":"The server winked, the page took flight,\nIt’s wandering in the digital night.\nDon’t be sad, click elsewhere,\nNew pages await, a web affair."}
+{"prompt":"404 Error Poem 75","completion":"Oops! The link is on the run,\nIt’s having digital cyber fun.\nClick back or forward, don’t dismay,\nOther pages are just a click away."}
+{"prompt":"404 Error Poem 76","completion":"This page is shy and hides from view,\nIt may appear or not, it’s true.\nExplore the web, find something new,\nOther links will guide you through."}
+{"prompt":"404 Error Poem 77","completion":"The page escaped, it ran so fast,\nIt left behind no digital cast.\nClick elsewhere, the net is wide,\nOther pages are on your side."}
+{"prompt":"404 Error Poem 78","completion":"A cyber gremlin took your link,\nIt’s sipping tea without a blink.\nNo need to worry, it may return,\nFor now, enjoy the web’s small fun."}
+{"prompt":"404 Error Poem 79","completion":"The URL ran to the great unknown,\nIt’s exploring bytes all on its own.\nClick back or forth, the web’s alive,\nOther pages will help you thrive."}
+{"prompt":"404 Error Poem 80","completion":"The page is hiding, playful and sly,\nIt disappeared without goodbye.\nDon’t fret, explore another path,\nThe web is full of fun and math."}
+{"prompt":"404 Error Poem 81","completion":"404! The page has left the chat,\nIt wandered off, imagine that.\nBut fear not, brave web explorer,\nOther links await to make you soar."}
+{"prompt":"404 Error Poem 82","completion":"This link is gone, it took a trip,\nIt’s sipping data from a chip.\nNo need to panic, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 83","completion":"A page that wanders, free and wild,\nEscaped our grasp, like a cheeky child.\nWe hope you smile, not get annoyed,\nThe internet’s tricks are often deployed."}
+{"prompt":"404 Error Poem 84","completion":"The page you seek is feeling shy,\nIt ran away with a little sigh.\nNo need to fret, just click around,\nMore pages wait to be found."}
+{"prompt":"404 Error Poem 85","completion":"The digital winds blew page away,\nIt floated off to skies of gray.\nWe searched the cloud, the server too,\nAlas, the page is out of view."}
+{"prompt":"404 Error Poem 86","completion":"A missing page is quite absurd,\nNo rhyme, no reason, not a word.\nIt may return, or may not be,\nJust wander on the web, carefree."}
+{"prompt":"404 Error Poem 87","completion":"The page you want took a secret flight,\nIt’s hiding now, beyond our sight.\nWe’ll try again, another day,\nFor now, enjoy this playful fray."}
+{"prompt":"404 Error Poem 88","completion":"The link you clicked is out to play,\nIt skipped away without delay.\nHave a laugh, don’t feel dismayed,\nThe web is full of things displayed."}
+{"prompt":"404 Error Poem 89","completion":"The page you seek is on a break,\nIt needed time for goodness’ sake.\nCheck back soon or take a stroll,\nThe web will greet you, heart and soul."}
+{"prompt":"404 Error Poem 90","completion":"A wandering page is hard to find,\nIt slipped away, and that’s just fine.\nClick back, click forth, the net’s a maze,\nMore pages wait to fill your days."}
+{"prompt":"404 Error Poem 91","completion":"The URL has gone for a little roam,\nIt’s exploring bytes far from home.\nNo need to fret, no need to pout,\nOther links are all about."}
+{"prompt":"404 Error Poem 92","completion":"This link decided to take a nap,\nIt hides somewhere on a digital map.\nDon’t worry, friend, click back or forth,\nThe web is full of infinite worth."}
+{"prompt":"404 Error Poem 93","completion":"The page took off on a daring quest,\nIt’s seeing sights and needed rest.\nNo worries, friend, click somewhere new,\nOther links are waiting for you."}
+{"prompt":"404 Error Poem 94","completion":"Oops! The page has run away,\nIt’s gone exploring another day.\nClick back, click forth, the web’s your friend,\nOther pages await around the bend."}
+{"prompt":"404 Error Poem 95","completion":"A tiny URL slipped out to play,\nIt danced and skipped the night away.\nNo need to frown, don’t be blue,\nOther pages will guide you through."}
+{"prompt":"404 Error Poem 96","completion":"The server winked, the page took flight,\nIt’s wandering free in the digital night.\nClick somewhere else and don’t despair,\nOther links are waiting there."}
+{"prompt":"404 Error Poem 97","completion":"The page you clicked is feeling sly,\nIt disappeared with a cheeky hi.\nNo need to panic, click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 98","completion":"404! The page has left the room,\nIt ran away, it’s met its doom.\nBut don’t be sad, explore and play,\nOther pages will guide your way."}
+{"prompt":"404 Error Poem 99","completion":"A mischievous link ran off to hide,\nIt giggled softly, full of pride.\nClick back or forward, don’t delay,\nOther pages await today."}
+{"prompt":"404 Error Poem 100","completion":"The URL ran off for a little spree,\nIt’s frolicking somewhere, wild and free.\nNo need to fret, just explore anew,\nOther pages have much for you."}
+{"prompt":"404 Error Poem 101","completion":"The page took off for a little ride,\nIt’s hidden somewhere, far and wide.\nClick back, click forth, explore some more,\nThe internet has fun in store."}
+{"prompt":"404 Error Poem 102","completion":"Oops! The URL is gone again,\nIt disappeared beyond the main.\nNo need to worry, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 103","completion":"A digital sprite ran off to play,\nIt skipped around the cyberway.\nDon’t fret, it might come back,\nClick elsewhere to stay on track."}
+{"prompt":"404 Error Poem 104","completion":"The link you want is feeling shy,\nIt vanished softly with a sigh.\nNo need to panic, just click anew,\nOther pages will guide you through."}
+{"prompt":"404 Error Poem 105","completion":"The page is hiding behind the mist,\nIt waved goodbye with a gentle twist.\nClick somewhere else, don’t feel sad,\nOther links will make you glad."}
+{"prompt":"404 Error Poem 106","completion":"This URL ran off to have some fun,\nIt’s dancing with the morning sun.\nNo need to frown, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 107","completion":"The server blinked and out it flew,\nThe page you seek is out of view.\nClick elsewhere, don’t be sad,\nOther pages will make you glad."}
+{"prompt":"404 Error Poem 108","completion":"A tiny link ran out to play,\nIt giggled and skipped the day away.\nNo worries here, just click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 109","completion":"The page decided to take a nap,\nIt’s hiding somewhere on the map.\nDon’t panic, friend, just click around,\nOther pages are easily found."}
+{"prompt":"404 Error Poem 110","completion":"404! The page has run away,\nIt’s off to play another day.\nClick back, click forth, the web is wide,\nOther links will be your guide."}
+{"prompt":"404 Error Poem 111","completion":"The URL slipped off for a quick stroll,\nIt’s sipping data from a digital bowl.\nClick somewhere else, don’t be sad,\nOther pages await, not bad."}
+{"prompt":"404 Error Poem 112","completion":"The page you seek took a secret flight,\nIt’s hiding now, beyond our sight.\nWe’ll try again another day,\nFor now, enjoy this playful fray."}
+{"prompt":"404 Error Poem 113","completion":"Oops! The link has gone astray,\nIt wandered far, it ran away.\nNo need to frown, click somewhere new,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 114","completion":"The page ran off to see the sun,\nIt’s frolicking and having fun.\nNo worries, friend, it might return,\nClick elsewhere for pages to learn."}
+{"prompt":"404 Error Poem 115","completion":"A wandering link is hard to track,\nIt dashed away and won’t come back.\nClick elsewhere, the web’s wide,\nOther pages will be your guide."}
+{"prompt":"404 Error Poem 116","completion":"The digital gremlin took your site,\nIt’s dancing under neon light.\nNo need to panic, it may return,\nEnjoy the web’s playful churn."}
+{"prompt":"404 Error Poem 117","completion":"This URL is shy and hides away,\nIt might return another day.\nClick around, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 118","completion":"The page ran off, it’s on a quest,\nIt’s exploring bytes and needed rest.\nNo worries here, just click back or forth,\nThe internet is full of worth."}
+{"prompt":"404 Error Poem 119","completion":"The link disappeared without a trace,\nIt’s having fun in cyberspace.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 120","completion":"A mischievous page ran out to play,\nIt skipped around the server today.\nNo need to frown, just click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 121","completion":"The URL took a little trip,\nIt’s sipping tea without a slip.\nClick back, explore, and don’t dismay,\nOther pages await today."}
+{"prompt":"404 Error Poem 122","completion":"The page is hiding, playful and sly,\nIt disappeared without goodbye.\nNo need to panic, click elsewhere,\nOther links are waiting there."}
+{"prompt":"404 Error Poem 123","completion":"404! The link has skipped away,\nIt’s off to play another day.\nClick back, click forth, the web’s a maze,\nOther pages fill your days."}
+{"prompt":"404 Error Poem 124","completion":"The server winked and hid your link,\nIt’s sipping coffee, don’t you think?\nNo need to stress, enjoy the show,\nOther pages are waiting to go."}
+{"prompt":"404 Error Poem 125","completion":"This page ran off for a quick roam,\nIt’s exploring bytes far from home.\nClick elsewhere, don’t feel blue,\nOther links will guide you through."}
+{"prompt":"404 Error Poem 126","completion":"The URL is gone, it took a flight,\nIt’s frolicking in cyber light.\nNo worries, friend, just click anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 127","completion":"A tiny link slipped out to play,\nIt giggled and danced the day away.\nClick back, explore, and don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 128","completion":"The page you want is feeling shy,\nIt ran away with a little sigh.\nNo need to panic, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 129","completion":"Oops! The URL ran off to hide,\nIt’s having fun on the data side.\nClick elsewhere, the web’s alive,\nOther pages help you thrive."}
+{"prompt":"404 Error Poem 130","completion":"The link is missing, it took a stroll,\nIt’s dancing freely, on a roll.\nNo need to fret, just click anew,\nThe internet has more for you."}
+{"prompt":"404 Error Poem 131","completion":"404! The page has vanished fast,\nIt ran away and couldn’t last.\nClick back, click forth, don’t dismay,\nOther links will save the day."}
+{"prompt":"404 Error Poem 132","completion":"The page ran off for a secret quest,\nIt’s exploring bytes, it needed rest.\nNo worries, friend, click somewhere new,\nOther pages await for you."}
+{"prompt":"404 Error Poem 133","completion":"This URL took a tiny leap,\nIt’s hiding somewhere, fast asleep.\nClick back or forward, don’t be sad,\nOther links will make you glad."}
+{"prompt":"404 Error Poem 134","completion":"A mischievous page ran off to play,\nIt giggled softly, not far away.\nNo need to frown, click elsewhere,\nOther links are waiting there."}
+{"prompt":"404 Error Poem 135","completion":"The URL ran off to have a spree,\nIt’s frolicking somewhere, wild and free.\nClick back, explore, and don’t feel blue,\nOther pages have much for you."}
+{"prompt":"404 Error Poem 136","completion":"The page is hiding, out of sight,\nIt might return later tonight.\nClick somewhere else, don’t feel sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 137","completion":"Oops! The link has run away,\nIt’s off to play another day.\nNo need to fret, no need to pout,\nOther pages are all about."}
+{"prompt":"404 Error Poem 138","completion":"The URL took a tiny flight,\nIt’s dancing under digital light.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 139","completion":"A wandering page is hard to find,\nIt slipped away, left us behind.\nClick back, click forth, the web’s so vast,\nOther links will guide you fast."}
+{"prompt":"404 Error Poem 140","completion":"The page ran off, it’s on a spree,\nIt’s playing games so gleefully.\nNo need to panic, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 141","completion":"The URL disappeared from our sight,\nIt’s frolicking somewhere in the night.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 142","completion":"This page ran off to see the sun,\nIt’s dancing freely, having fun.\nClick back or forward, don’t be sad,\nOther links will make you glad."}
+{"prompt":"404 Error Poem 143","completion":"A tiny link ran out to play,\nIt skipped around and went astray.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 144","completion":"The page you seek is feeling shy,\nIt ran away with a little sigh.\nNo need to fret, just click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 145","completion":"The URL is gone, it took a stroll,\nIt’s dancing freely, on a roll.\nClick somewhere else, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 146","completion":"404! The page has skipped away,\nIt’s off to play another day.\nClick back, click forth, the web’s a maze,\nOther pages fill your days."}
+{"prompt":"404 Error Poem 147","completion":"The server winked and hid your link,\nIt’s sipping coffee, don’t you think?\nClick back or forward, don’t feel bad,\nOther pages will make you glad."}
+{"prompt":"404 Error Poem 148","completion":"This URL ran off for a quick roam,\nIt’s exploring bytes far from home.\nClick elsewhere, don’t feel blue,\nOther links will guide you through."}
+{"prompt":"404 Error Poem 149","completion":"The page ran off for a little ride,\nIt’s hidden somewhere, far and wide.\nClick back, click forth, explore some more,\nThe internet has fun in store."}
+{"prompt":"404 Error Poem 150","completion":"Oops! The URL is gone again,\nIt disappeared beyond the main.\nNo need to worry, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 151","completion":"The page ran off to see the sun,\nIt’s dancing freely, having fun.\nClick back, explore, don’t feel sad,\nOther pages will make you glad."}
+{"prompt":"404 Error Poem 152","completion":"A wandering URL slipped away,\nIt’s frolicking in the data bay.\nNo need to worry, click around,\nOther pages are easily found."}
+{"prompt":"404 Error Poem 153","completion":"Oops! The link is feeling shy,\nIt hid behind a cloud up high.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 154","completion":"The server blinked, the page took flight,\nIt’s wandering far into the night.\nClick back, click forth, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 155","completion":"The URL ran off to have some fun,\nIt’s skipping bytes beneath the sun.\nNo need to frown, don’t be blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 156","completion":"A tiny page went for a stroll,\nIt giggled softly, out of control.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 157","completion":"This link ran off for a little spree,\nIt’s dancing in the digital sea.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 158","completion":"The page you seek is on a quest,\nIt’s wandering freely, needing rest.\nNo need to worry, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 159","completion":"A mischievous URL slipped away,\nIt’s giggling softly, not here to stay.\nClick back, click forth, explore the net,\nOther pages you will not forget."}
+{"prompt":"404 Error Poem 160","completion":"404! The page has skipped the show,\nIt wandered off to places you don’t know.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 161","completion":"The server winked, the link took flight,\nIt’s dancing freely in the night.\nNo need to fret, don’t feel sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 162","completion":"The URL disappeared from our view,\nIt’s exploring bytes, both old and new.\nClick back, click forth, explore around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 163","completion":"Oops! The page is feeling sly,\nIt ran away without goodbye.\nClick elsewhere, the web’s your friend,\nOther pages await at every bend."}
+{"prompt":"404 Error Poem 164","completion":"A tiny link took off to play,\nIt skipped along the digital way.\nNo need to frown, just click anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 165","completion":"The page is hiding, playful and bright,\nIt’s wandering somewhere out of sight.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 166","completion":"This URL ran off for a secret ride,\nIt’s frolicking somewhere on the cyber tide.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 167","completion":"The page you clicked has gone astray,\nIt ran away to play today.\nNo need to worry, don’t be blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 168","completion":"A wandering URL is hard to find,\nIt slipped away, leaving us behind.\nClick back, click forth, explore some more,\nOther pages are waiting in store."}
+{"prompt":"404 Error Poem 169","completion":"404! The page has gone on tour,\nIt’s seeing sights, adventures galore.\nClick elsewhere, don’t feel sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 170","completion":"The server blinked, the link took flight,\nIt’s wandering freely into the night.\nClick back, click forth, explore around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 171","completion":"This page ran off to see the sun,\nIt’s dancing freely, having fun.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 172","completion":"A tiny link ran off for a spree,\nIt’s frolicking across the data sea.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 173","completion":"The page you want took a secret flight,\nIt’s hiding softly from your sight.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 174","completion":"Oops! The URL slipped out of view,\nIt’s wandering somewhere, fresh and new.\nNo need to panic, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 175","completion":"The link is gone, it ran away,\nIt’s having fun another day.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 176","completion":"A mischievous page ran off to play,\nIt skipped along without delay.\nClick back, explore, and don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 177","completion":"The URL ran off for a tiny stroll,\nIt’s dancing freely, on a roll.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 178","completion":"The page you seek is feeling shy,\nIt ran away with a little sigh.\nClick back, click forth, explore the net,\nOther pages you will not forget."}
+{"prompt":"404 Error Poem 179","completion":"This link ran off for a little roam,\nIt’s frolicking far from home.\nNo need to fret, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 180","completion":"404! The page has skipped away,\nIt’s off to play another day.\nClick back, click forth, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 181","completion":"A wandering URL is hard to track,\nIt dashed away and won’t come back.\nClick elsewhere, the web is wide,\nOther pages will be your guide."}
+{"prompt":"404 Error Poem 182","completion":"The server winked, the link took flight,\nIt’s dancing freely into the night.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 183","completion":"The page ran off to see the sun,\nIt’s frolicking and having fun.\nNo need to frown, click somewhere new,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 184","completion":"A tiny link slipped out to play,\nIt giggled and skipped the day away.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 185","completion":"The page you want took a secret flight,\nIt’s hiding softly out of sight.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 186","completion":"Oops! The URL is gone again,\nIt disappeared beyond the main.\nNo need to worry, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 187","completion":"The link is missing, it took a stroll,\nIt’s dancing freely, on a roll.\nClick back, click forth, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 188","completion":"404! The page has vanished fast,\nIt ran away and couldn’t last.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 189","completion":"A mischievous page ran off to play,\nIt skipped along without delay.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 190","completion":"The URL ran off for a little spree,\nIt’s frolicking somewhere, wild and free.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 191","completion":"This page ran off for a secret quest,\nIt’s wandering freely, needing rest.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 192","completion":"The page is hiding, playful and bright,\nIt’s frolicking somewhere out of sight.\nClick back, click forth, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 193","completion":"Oops! The link is feeling sly,\nIt ran away without goodbye.\nClick elsewhere, the web’s your friend,\nOther pages await at every bend."}
+{"prompt":"404 Error Poem 194","completion":"The tiny URL ran off to play,\nIt skipped along the digital way.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 195","completion":"A wandering page is hard to find,\nIt slipped away, leaving us behind.\nClick back, click forth, explore some more,\nOther pages are waiting in store."}
+{"prompt":"404 Error Poem 196","completion":"404! The page has gone on tour,\nIt’s seeing sights, adventures galore.\nClick elsewhere, don’t feel sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 197","completion":"The server blinked, the link took flight,\nIt’s wandering freely into the night.\nClick back, click forth, explore around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 198","completion":"This page ran off to see the sun,\nIt’s dancing freely, having fun.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 199","completion":"A tiny link ran off for a spree,\nIt’s frolicking across the data sea.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 200","completion":"The page you want took a secret flight,\nIt’s hiding softly from your sight.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 201","completion":"Oops! The URL ran off to hide,\nIt’s having fun on the data side.\nClick elsewhere, the web’s alive,\nOther pages help you thrive."}
+{"prompt":"404 Error Poem 202","completion":"The page ran off for a little stroll,\nIt giggled softly, on a roll.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 203","completion":"404! The link has skipped the show,\nIt wandered off to places you don’t know.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 204","completion":"A wandering URL is hard to track,\nIt dashed away and won’t come back.\nClick elsewhere, the web is wide,\nOther pages will be your guide."}
+{"prompt":"404 Error Poem 205","completion":"The server winked, the link took flight,\nIt’s dancing freely into the night.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 206","completion":"The page ran off to see the sun,\nIt’s frolicking and having fun.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 207","completion":"A tiny link slipped out to play,\nIt giggled and skipped the day away.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 208","completion":"The page you want took a secret flight,\nIt’s hiding softly out of sight.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 209","completion":"Oops! The URL is gone again,\nIt disappeared beyond the main.\nNo need to worry, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 210","completion":"The link is missing, it took a stroll,\nIt’s dancing freely, on a roll.\nClick back, click forth, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 211","completion":"404! The page has vanished fast,\nIt ran away and couldn’t last.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 212","completion":"A mischievous page ran off to play,\nIt skipped along without delay.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 213","completion":"The URL ran off for a little spree,\nIt’s frolicking somewhere, wild and free.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 214","completion":"This page ran off for a secret quest,\nIt’s wandering freely, needing rest.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 215","completion":"The page is hiding, playful and bright,\nIt’s frolicking somewhere out of sight.\nClick back, click forth, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 216","completion":"Oops! The link is feeling sly,\nIt ran away without goodbye.\nClick elsewhere, the web’s your friend,\nOther pages await at every bend."}
+{"prompt":"404 Error Poem 217","completion":"The tiny URL ran off to play,\nIt skipped along the digital way.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 218","completion":"A wandering page is hard to find,\nIt slipped away, leaving us behind.\nClick back, click forth, explore some more,\nOther pages are waiting in store."}
+{"prompt":"404 Error Poem 219","completion":"404! The page has gone on tour,\nIt’s seeing sights, adventures galore.\nClick elsewhere, don’t feel sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 220","completion":"The server blinked, the link took flight,\nIt’s wandering freely into the night.\nClick back, click forth, explore around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 221","completion":"This page ran off to see the sun,\nIt’s dancing freely, having fun.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 222","completion":"A tiny link ran off for a spree,\nIt’s frolicking across the data sea.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 223","completion":"The page you want took a secret flight,\nIt’s hiding softly from your sight.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 224","completion":"Oops! The URL ran off to hide,\nIt’s having fun on the data side.\nClick elsewhere, the web’s alive,\nOther pages help you thrive."}
+{"prompt":"404 Error Poem 225","completion":"The page ran off for a little stroll,\nIt giggled softly, on a roll.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 226","completion":"404! The link has skipped the show,\nIt wandered off to places you don’t know.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 227","completion":"A wandering URL is hard to track,\nIt dashed away and won’t come back.\nClick elsewhere, the web is wide,\nOther pages will be your guide."}
+{"prompt":"404 Error Poem 228","completion":"The server winked, the link took flight,\nIt’s dancing freely into the night.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 229","completion":"The page ran off to see the sun,\nIt’s frolicking and having fun.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 230","completion":"A tiny link slipped out to play,\nIt giggled and skipped the day away.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 231","completion":"The page you want took a secret flight,\nIt’s hiding softly out of sight.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 232","completion":"Oops! The URL is gone again,\nIt disappeared beyond the main.\nNo need to worry, click around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 233","completion":"The link is missing, it took a stroll,\nIt’s dancing freely, on a roll.\nClick back, click forth, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 234","completion":"404! The page has vanished fast,\nIt ran away and couldn’t last.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 235","completion":"A mischievous page ran off to play,\nIt skipped along without delay.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 236","completion":"The URL ran off for a little spree,\nIt’s frolicking somewhere, wild and free.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 237","completion":"This page ran off for a secret quest,\nIt’s wandering freely, needing rest.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 238","completion":"The page is hiding, playful and bright,\nIt’s frolicking somewhere out of sight.\nClick back, click forth, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 239","completion":"Oops! The link is feeling sly,\nIt ran away without goodbye.\nClick elsewhere, the web’s your friend,\nOther pages await at every bend."}
+{"prompt":"404 Error Poem 240","completion":"The tiny URL ran off to play,\nIt skipped along the digital way.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 241","completion":"A wandering page is hard to find,\nIt slipped away, leaving us behind.\nClick back, click forth, explore some more,\nOther pages are waiting in store."}
+{"prompt":"404 Error Poem 242","completion":"404! The page has gone on tour,\nIt’s seeing sights, adventures galore.\nClick elsewhere, don’t feel sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 243","completion":"The server blinked, the link took flight,\nIt’s wandering freely into the night.\nClick back, click forth, explore around,\nOther pages will soon be found."}
+{"prompt":"404 Error Poem 244","completion":"This page ran off to see the sun,\nIt’s dancing freely, having fun.\nClick back, explore, don’t despair,\nOther pages are waiting there."}
+{"prompt":"404 Error Poem 245","completion":"A tiny link ran off for a spree,\nIt’s frolicking across the data sea.\nClick elsewhere, explore anew,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 246","completion":"The page you want took a secret flight,\nIt’s hiding softly from your sight.\nClick back, click forth, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 247","completion":"Oops! The URL ran off to hide,\nIt’s having fun on the data side.\nClick elsewhere, the web’s alive,\nOther pages help you thrive."}
+{"prompt":"404 Error Poem 248","completion":"The page ran off for a little stroll,\nIt giggled softly, on a roll.\nClick back, explore, don’t be sad,\nOther pages are waiting glad."}
+{"prompt":"404 Error Poem 249","completion":"404! The link has skipped the show,\nIt wandered off to places you don’t know.\nClick elsewhere, don’t feel blue,\nOther pages are waiting for you."}
+{"prompt":"404 Error Poem 250","completion":"A wandering URL is hard to track,\nIt dashed away and won’t come back.\nClick elsewhere, the web is wide,\nOther pages will be your guide."}
