@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://steam-locomotive-industrial-revolution.github.io/</loc>
-<lastmod>2025-09-18T21:54:33+10:00</lastmod>
-</url>
-<url>
 <loc>https://steam-locomotive-industrial-revolution.github.io/404.html</loc>
 <lastmod>2025-09-19T12:58:07+10:00</lastmod>
 </url>
@@ -25,6 +21,10 @@
 <lastmod>2025-09-19T09:03:33+10:00</lastmod>
 </url>
 <url>
+<loc>https://steam-locomotive-industrial-revolution.github.io/Home/</loc>
+<lastmod>2025-09-19T13:12:51+10:00</lastmod>
+</url>
+<url>
 <loc>https://steam-locomotive-industrial-revolution.github.io/How-it-worked/</loc>
 <lastmod>2025-09-19T13:01:07+10:00</lastmod>
 </url>
@@ -42,10 +42,10 @@
 </url>
 <url>
 <loc>https://steam-locomotive-industrial-revolution.github.io/node_modules/tslib/tslib.es6.html</loc>
-<lastmod>2025-09-19T03:07:52+00:00</lastmod>
+<lastmod>2025-09-19T03:13:21+00:00</lastmod>
 </url>
 <url>
 <loc>https://steam-locomotive-industrial-revolution.github.io/node_modules/tslib/tslib.html</loc>
-<lastmod>2025-09-19T03:07:52+00:00</lastmod>
+<lastmod>2025-09-19T03:13:21+00:00</lastmod>
 </url>
 </urlset>
